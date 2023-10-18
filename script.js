@@ -31,10 +31,10 @@ click6.addEventListener("click", function (event) {
   window.location.href = "https://mamatiffncompany.com/";
 });
 
-linkd.addEventListener("click", function (event) {
-  window.location.href = "www.linkedin.com/in/corey-sugai";
-});
+// linkd.addEventListener("click", function (event) {
+//   window.location.href = "https://www.linkedin.com/in/corey-sugai";
+// });
 
-linkk.addEventListener("click", function (event) {
-  window.location.href = "www.linkedin.com/in/corey-sugai";
-});
+// linkk.addEventListener("click", function (event) {
+//   window.location.href = "https://www.linkedin.com/in/corey-sugai";
+// });
